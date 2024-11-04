@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T16:30:05Z" name="Default suite" finished-at="2024-05-29T16:30:21Z" duration-ms="16142">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T16:30:05Z" name="Default test" finished-at="2024-05-29T16:30:21Z" duration-ms="16142">
+      <class name="come.demo.demo.TestClass">
+        <test-method signature="testLoginPage()[pri:0, instance:come.demo.demo.TestClass@68dc098b]" started-at="2024-05-29T22:00:05Z" name="testLoginPage" finished-at="2024-05-29T22:00:21Z" duration-ms="16128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+      </class> <!-- come.demo.demo.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
