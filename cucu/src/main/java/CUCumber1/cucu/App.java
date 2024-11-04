@@ -1,4 +1,4 @@
-package testing.selenium;
+package CUCumber1.cucu;
 
 /**
  * Hello world!
